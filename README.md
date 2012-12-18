@@ -23,4 +23,5 @@ Usage
 Requirements
 ------------
 
-- python-ntlm
+- [requests](https://github.com/kennethreitz/requests/)
+- [requests-ntlm](https://github.com/requests/requests-ntlm)
