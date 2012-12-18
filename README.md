@@ -19,3 +19,8 @@ Usage
 	builds = tfs.getQueuedBuilds('username','pass')
 	for build in builds:
 		print "%-20s:%15s" % (build["definition"], build["status"])
+
+Requirements
+------------
+
+- python-ntlm
